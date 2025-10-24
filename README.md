@@ -1,2 +1,2 @@
 # blueprintback-v1.0
-After Project Mangement 
+After Project Mangement of Blue Print
